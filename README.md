@@ -4,6 +4,7 @@
 
 <div align="center">
 
+[LIVE](https://datkiddude.github.io/qr-code-component/) |
 [CHALLENGE](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H) |
 [SOLUTION](https://www.frontendmentor.io/solutions)
 
