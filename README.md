@@ -1,4 +1,4 @@
-![qr-code-component](images\qr-code-design-finished.png)
+![qr-code-component](images/qr-code-design-finished.png)
 
 <h1 align="center">Qr Code Component</h1>
 
